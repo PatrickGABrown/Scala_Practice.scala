@@ -1,0 +1,6 @@
+package LearningScalaOnMyOwn
+
+object ProblemTwo {
+
+
+}
